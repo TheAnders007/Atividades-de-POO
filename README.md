@@ -6,5 +6,5 @@ Tabela de Questões
 
 | Questões     |                Enunciados                  |
 | ------------- | ------------- |
-| Conten AHAHDDHKSGASKADSKSDAJHDKSAHAK | Content Cell  |
+|⠀⠀ 1  | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 | Content Cell  | Content Cell  |
