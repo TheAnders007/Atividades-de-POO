@@ -1,4 +1,4 @@
-# Atividades-de-POO
+# Atividades-de-POO-2023.1
 
 Repositório destinado às atividades da disciplina de Programação Orientada a Objetos.
 
