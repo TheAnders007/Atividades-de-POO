@@ -1,6 +1,7 @@
-# Atividades-de-POO-2023.1
+# Questões do Primeiro Trabalho da Disciplina de POO - 2023.1
 
-Repositório destinado às atividades da disciplina de Programação Orientada a Objetos.
+Repositório destinado às atividades do primeiro trabalho da disciplina de Programação Orientada a Objetos ministrada pelo professor Róger Moura.
+
 
 Tabela de Questões
 
