@@ -7,3 +7,8 @@ Questões Resolvidas
 | 3 | Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada dessas notas. | 
 | 4 | Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%. | 
 | 5 | Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor de aumento e o novo salário. |
+| 7 | Faça um programa que receba o salário base de um funcionário, calcule e mostre o seu salário a receber, sabendo-se que esse funcionário tem gratificação de R$50,00 e paga imposto de 10% sobre o salário-base. | 
+| 9 | Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que Área = (base * altura)/2. |
+| 14 | Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:  
+| 15 | O custo ao consumidor de um carro novo é a soma do preço de fábrica com o percentual de lucro do distribuidor e dos impostos aplicados ao preço de fábrica. Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do distribuidor e o percentual de impostos. Calcule e mostre:  |
+| 22 | Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e mostre: |
