@@ -10,7 +10,7 @@ Repositório destinado às atividades do primeiro trabalho da disciplina de Prog
 
 **Tabela de Questões**
 
-| Questões   |  Enunciados  |
-| :-----------: | ----------- |
-| 1 | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
-| Content Cell  | Content Cell  |
+| Questões   | Tipo de Questão | Enunciados  |
+| :-----------: | :-------------: | ----------- |
+| 1 | Resolvida | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
+
