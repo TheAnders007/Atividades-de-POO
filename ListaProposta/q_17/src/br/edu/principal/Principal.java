@@ -6,7 +6,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 	
-	double raio;	
+    double raio;	
     double pi = 3.14;
     double comprimento;
     double area;
@@ -18,7 +18,7 @@ public class Principal {
     
     comprimento = 2 * pi * raio;
     area = pi * Math.pow(raio, 2);
-    volume = 3/(4 * pi * Math.pow(raio, 3));
+    volume = (4/3) * pi * Math.pow(raio, 3);
     
     System.out.println("O comprimento da esfera é: " + comprimento);
     System.out.println("A área da esfera é: " + area);
