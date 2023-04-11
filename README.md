@@ -23,7 +23,7 @@ Repositório destinado às atividades do primeiro trabalho da disciplina de Prog
 **Tabela de Questões**
 
 | Questões   | Tipo de Questão | Enunciados  |
-| :-----------: | :-------------: | ----------- |
+| :-----------: | :-------------: | :-----------: |
 | 1 | Resolvida | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.|
 | 2 | Resolvida | Faça um programa que receba três notas, calcule e mostre a média aritmética entre elas. | 
 | 2 | Proposta | Faça um programa que receba três números, calcule e mostre a multiplicação desses números. | 
