@@ -18,7 +18,7 @@ public class Principal {
     
     comprimento = 2 * pi * raio;
     area = pi * Math.pow(raio, 2);
-    volume = (4/3) * pi * Math.pow(raio, 3);
+    volume = 4 * pi * Math.pow(raio, 3)/3;
     
     System.out.println("O comprimento da esfera é: " + comprimento);
     System.out.println("A área da esfera é: " + area);
